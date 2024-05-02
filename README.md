@@ -23,6 +23,6 @@ These Questions are **important** because
 
 ## Discussion & Summary
 
-```
+```python
 import pandas as pd
 ```
