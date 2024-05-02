@@ -15,3 +15,10 @@ These Questions are **important** because
 
 [Elon University](https://www.elon.edu/)
 ![image](https://github.com/carlybeeler/mgt4250spring2024/assets/168772738/0849aa7b-7ef1-47db-a0fc-929e5e3b71fd)
+
+
+## Data Description
+## Interpreting Visualizations
+<img width="629" alt="Screenshot 2024-05-02 at 2 59 08 PM" src="https://github.com/carlybeeler/mgt4250spring2024/assets/168772738/6bcf54f9-5bc2-41e9-831c-1e4ec7d1fd37">
+
+## Discussion & Summary
